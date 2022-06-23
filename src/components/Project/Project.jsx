@@ -8,9 +8,9 @@ const Project = () => {
       <div className="pl-texts">
         <h1 className="pl-title">Projects</h1>
         <p className="pl-desc">
-          Lama is a creative portfolio that your work has been waiting for.
+          {/* Lama is a creative portfolio that your work has been waiting for.
           Beautiful homes, stunning portfolio styles & a whole lot more awaits
-          inside.
+          inside. */}
         </p>
       </div>
       <div className="pl-list">
